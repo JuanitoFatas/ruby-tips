@@ -14,7 +14,7 @@
 => [:i, :have, :a, :dream]
 ```
 
-### Create consecutive elements from splat and Range.
+### Create consecutive elements from splat and Range
 
 ```ruby
 > [*1..10]
