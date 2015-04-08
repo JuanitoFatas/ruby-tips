@@ -8,6 +8,10 @@ Do not need to escape forward slash
 %r{http://github\.com}
 ```
 
+### Character Properties
+
+http://ruby-doc.org/core-2.2.1/Regexp.html#class-Regexp-label-Character+Properties
+
 ### Match UTF-8 Chinese
 
 ```
