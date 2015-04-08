@@ -1,11 +1,5 @@
 ## Complex
 
-### How to require
-
-```
-require "complex"
-```
-
 ### Syntax
 
 ```
